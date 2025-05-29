@@ -1,0 +1,17 @@
+{
+  "name": "mergeProject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chananon-n/mergeProject.git",
+  "author": "chananon-n <91945879+chananon-n@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+  "test": "jest"
+},
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.3.4",
+    "typescript": "^5.8.3"
+  }
+}
